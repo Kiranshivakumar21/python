@@ -1,0 +1,18 @@
+count = int(input("Enter how many subjects in 12th: "))
+Tamil=int(input("Enter your Tamil mark :"))
+English=int(input("Enter your English mark:"))
+Maths=int(input("Enter your Maths mark:"))
+Physics=int(input("Enter your physics mark:"))
+Chemistry=int(input("Enter your chemistry mark:"))
+Computer_science=int(input("Enter your Computer_science mark:"))
+Total_marks=(Tamil+English+Maths+Physics+Chemistry+Computer_science)
+print("Total_subjects:",count)
+print("Tamil:",Tamil)
+print("English:",English)
+print("Maths:",Maths)
+print("Physics:",Physics)
+print("Chemistry:",Chemistry)
+print("Computer_science:",Computer_science)
+print("Total marks:",Total_marks)
+                   
+                

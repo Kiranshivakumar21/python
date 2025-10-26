@@ -1,0 +1,16 @@
+count = int(input("Enter how many subjects in 10th: "))
+Tamil=int(input("Enter your Tamil mark :"))
+English=int(input("Enter your English mark:"))
+Maths=int(input("Enter your Maths mark:"))
+Science=int(input("Enter your science mark:"))
+Social_science=int(input("Enter your social_science mark:"))
+Total_marks=(Tamil+English+Maths+Science+Social_science)
+print("Total subjects:",count)
+print("Tamil:",Tamil)
+print("English:",English)
+print("Maths:",Maths)
+print("Science:",Science)
+print("Social_science:",Social_science)
+print("Total marks:",Total_marks)
+                   
+                
