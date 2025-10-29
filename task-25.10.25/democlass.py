@@ -1,6 +1,6 @@
 class gurutheatre:
     def kantara(self):
-        print("enjoying kantara movie")
+        print("enjoying the kantara movie")
     def dude(self):
         print("enjoy the dude movie")
 
